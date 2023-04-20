@@ -14,4 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-For more than 4 years I worked in the E-commerce department of the largest electronics and mobile technology retail chain in Belarus. I have experience in working with extensive catalogs and large numbers of product cards, writing and editing product content that will be published on E-commerce websites and marketplaces. But all this time, I was passionate about development and learned a lot and practiced my skills at every opportunity while working in E-commerce and freelancing. I’m currently working on improving my skills in development and am looking for a job as a Junior Frontend Developer in Poland. 
+For more than 4 years I worked in the E-commerce department of the largest electronics and mobile technology retail chain in Belarus. I have experience in working with extensive catalogs and large numbers of product cards, writing and editing product content that will be published on E-commerce websites and marketplaces. 
+But all this time, I was passionate about development and learned a lot and practiced my skills at every opportunity while working in E-commerce and freelancing. 
+
+🧑🏻‍💻 I’m currently working on improving my skills in development and am looking for a job as a Junior Frontend Developer in Poland. 
